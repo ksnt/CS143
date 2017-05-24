@@ -4,11 +4,11 @@
 
 Overview
 
-1.Lexical Analysis
-2.Parsing
-3.Semantic Analysis
-4.Optimization
-5.Code Generation
+1.Lexical Analysis  
+2.Parsing  
+3.Semantic Analysis  
+4.Optimization  
+5.Code Generation  
 
 Remark: In section1 and 2, Syntactic aspects of language will be shown. In section3, Types and scope, In section4, a collection of transforations on the program to either make it run faster or use less memory, will be shown. In section5, translation into anothre generation such as machine code or a bite code for a virtual machine.
 
