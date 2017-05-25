@@ -1,5 +1,8 @@
 # CS143
 
+## COURSE SITE
+
+http://online.stanford.edu/course/compilers-0
 
 ## READINGS
 
